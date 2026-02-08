@@ -1,0 +1,14 @@
+python-dotenv
+gpiozero
+pygame
+
+# 音声認識ライブラリ
+SpeechRecognition
+pyaudio
+
+# 読み上げライブラリ
+edge-tts
+
+# Gemini
+google-generativeai
+google-genai
