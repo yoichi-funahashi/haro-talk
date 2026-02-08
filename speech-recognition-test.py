@@ -57,15 +57,3 @@ def mike_to_textise():
 
 mike_to_textise()
 
-
-
-# r = sr.Recognizer()
-# mic = sr.Microphone()
-# while True:
-#     #Opening Microphone 
-#     with mic as source:
-#         #Capturing Audio and Assign it in Variable 
-#         audio = r.listen(source)
-#     #Recognize Captured Audio using Google Web Search API   
-#     words = r.recognize_google(audio)
-#     print(words)
